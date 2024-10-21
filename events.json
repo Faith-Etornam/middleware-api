@@ -1,0 +1,37 @@
+[
+	{
+		"id": 1,
+		"name": "Event 1",
+		"description": "Description 1",
+		"date": "2021-01-01",
+		"location": "Location 1"
+	},
+	{
+		"id": 2,
+		"name": "Event 2",
+		"description": "Description 2",
+		"date": "2021-02-02",
+		"location": "Location 2"
+	},
+	{
+		"id": 3,
+		"name": "Event 3",
+		"description": "Description 3",
+		"date": "2021-03-03",
+		"location": "Location 3"
+	},
+	{
+		"id": 4,
+		"name": "Event 4",
+		"description": "Description 4",
+		"date": "2021-04-04",
+		"location": "Location 4"
+	},
+	{
+		"id": 5,
+		"name": "Event 5",
+		"description": "Description 5",
+		"date": "2021-05-05",
+		"location": "Location 5"
+	}
+]
